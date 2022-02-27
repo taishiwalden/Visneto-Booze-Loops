@@ -13,4 +13,4 @@ Created an interactive pub crawl map with bars and clubs in Ballard, Seattle. In
 
 
 ## [Read this document](https://docs.google.com/document/d/1ToHSVcazbKZbWqH1cEAtkgaysKA7acn4LVb4UTbZpvg/edit) before forking this repo
-The Mapbox Alpha document contains 5 interactive tutorials by one of the executives at MapBox and they are super super useful in getting started. Look over this slide show: [How it works: MapBox](https://docs.google.com/presentation/d/1_SHifQ2zipxfwsRNkbzcQ2N39wCBgzKU4BFpDM6MNuc/edit#slide=id.g5631985587_1_0)
+The Mapbox Alpha document contains 5 interactive tutorials by one of the executives at MapBox and they are very useful in getting started. Look over this slide show: [How it works: MapBox](https://docs.google.com/presentation/d/1_SHifQ2zipxfwsRNkbzcQ2N39wCBgzKU4BFpDM6MNuc/edit#slide=id.g5631985587_1_0)
